@@ -4,5 +4,5 @@ This is a repository of my weekly projects while studying at [Alchemy University
 
 ## Projects
 
-- Week1 - ECDSA Node Project
+- Week1 - ECDSA Node Project (Refer [This](https://github.com/teerth17/alchemy-proj))
 - Week2 - Merkle Tree Project
